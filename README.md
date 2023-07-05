@@ -4,11 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vignesh57001&color=green" alt="vignesh57001" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://vignesh-portfolio.netlify.app/](https://vignesh-portfolio.netlify.app/)
-
+- 👨‍💻 Some of my special projects are available at [https://vignesh-portfolio.netlify.app/](https://vignesh-portfolio.netlify.app/)
+  
 - 💬 Ask me about **Mern**
 
 - 📫 How to reach me **vigneshmenon2303@gmail.com**
+
+- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/vigneshmenon2303/overview/](https://app.netlify.com/teams/vigneshmenon2303/overview/)
 
 - 📄 Know about my experiences [https://vignesh-portfolio.netlify.app/assets/Vignesh--resume.pdf](https://vignesh-portfolio.netlify.app/assets/Vignesh--resume.pdf)
 
